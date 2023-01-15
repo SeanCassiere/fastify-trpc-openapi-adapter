@@ -1,4 +1,6 @@
-# Fastify Adapter for TRPC-Openapi
+# *Possible*: Fastify Adapter for TRPC-Openapi (TRPC v9)
+
+⚠️ Warning: This was a *possible* adapter for trpc v9. This will NOT work in v10.
 
 An example of a possible adapter for using [trpc-openapi](https://github.com/jlalmes/trpc-openapi) to serve the trpc routes in Fastify.
 
